@@ -1,2 +1,2 @@
 # TaoImage_OCR
-This is a demo of a text recognition of to recognize Chinese characters and English.
+这是一个文字识别的一个demo，能识别汉字和英文。
